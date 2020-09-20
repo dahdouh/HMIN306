@@ -1,8 +1,0 @@
-Exercice 2
-
-1) nombre de classes =75
-2) nombre de lines =2634
-3) nombre de methodes =248
-4) Nombre de packages =40
-5) Nombre de méthodes par classes = 3
-6) Nombre moyen d'attributs par classe = 8
