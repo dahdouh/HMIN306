@@ -1,0 +1,87 @@
+Exercice 2 
+
+
+1 . Le nombre de classe est : 75 
+
+2. Le nombre de ligne de code est : 2634 
+
+3.Le nombre de methode est : 248
+
+4.Le nombre de Package est : 40 
+
+5.Le nombre moyen de methode par classe :3.2666666666666666
+
+6. le nombre moyen de Ligne par par methode :5.118367346938776
+
+7.le nombre moyen d'attribue par classe :2.24
+
+8.Les 10% des classes qui poss`edent le plus grand nombre de methodes : 
+
+Classe : CollectionEntity et Nombre de methode :22
+Classe : BodyFormInputPanel et Nombre de methode :15
+Classe : CollectionStructureFolderEntity et Nombre de methode :11
+Classe : CollectionBodyEntity et Nombre de methode :10
+Classe : BodyRawTypeModel et Nombre de methode :10
+Classe : HeadersFormInputPanel et Nombre de methode :9
+Classe : CollectionHeaderEntity et Nombre de methode :8
+Classe : UrlParser et Nombre de methode :8
+
+9. Les 10% des classes qui poss`edent le plus grand nombre d’attributs : 
+
+Classe : CollectionEntity et Nombre d'attribue  :11
+Classe : SocketIoPanel et Nombre d'attribue  :11
+Classe : RestPanel et Nombre d'attribue  :8
+Classe : RequestApiButton et Nombre d'attribue  :7
+Classe : BodyFormInputPanel et Nombre d'attribue  :7
+Classe : BodyPanel et Nombre d'attribue  :7
+Classe : ResponseBodyPanel et Nombre d'attribue  :7
+Classe : ServerSentEventPanel et Nombre d'attribue  :7
+
+10. Les classes qui font partie en meme temps des deux categories precedentes :
+
+CollectionEntity
+BodyFormInputPanel
+
+11.
+Les classes qui ont plus que X (modifiable) = 8 methode sont : 
+ 
+CollectionBodyEntity
+CollectionEntity
+CollectionStructureFolderEntity
+BodyRawTypeModel
+BodyFormInputPanel
+HeadersFormInputPanel
+
+12. 
+
+Les 10% des méthodes qui possedent le plus grand nombre de lignes de code :  
+
+Methode : main et Nombre de Ligne de code :54
+Methode : getQueryParams et Nombre de Ligne de code :41
+Methode : hasQueryParams et Nombre de Ligne de code :31
+Methode : isHasDomain et Nombre de Ligne de code :22
+Methode : getSessionFactory et Nombre de Ligne de code :20
+Methode : isHasCleanUrlTarget et Nombre de Ligne de code :16
+Methode : getTreeCellRendererComponent et Nombre de Ligne de code :15
+Methode : getDefaultFont et Nombre de Ligne de code :14
+Methode : getCodeFont et Nombre de Ligne de code :14
+Methode : isUseWWW et Nombre de Ligne de code :14
+Methode : addFormInput et Nombre de Ligne de code :14
+Methode : clearFormInput et Nombre de Ligne de code :13
+Methode : reloadSocketListener et Nombre de Ligne de code :13
+Methode : addFormInput et Nombre de Ligne de code :12
+Methode : addFormInput et Nombre de Ligne de code :12
+Methode : setStatus et Nombre de Ligne de code :12
+Methode : paintComponent et Nombre de Ligne de code :11
+Methode : clearFormInput et Nombre de Ligne de code :11
+Methode : svgIcon et Nombre de Ligne de code :11
+Methode : deleteSelectedRowListener et Nombre de Ligne de code :11
+Methode : convertSVGToPNG et Nombre de Ligne de code :11
+Methode : checkType et Nombre de Ligne de code :10
+Methode : onOpen et Nombre de Ligne de code :10
+Methode : onRetryError et Nombre de Ligne de code :10
+Methode : createWorkspaceDirectory et Nombre de Ligne de code :10
+
+13. Le nombre maximal de parametre par rapport a toutes les methodes de l'applis est : 158
+
+
