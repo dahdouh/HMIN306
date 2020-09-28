@@ -1,1 +1,9 @@
-l'analyse dynamique on fait de la instrumentation.On balaye tout le le code source pour récupérer
+Exercice 2 : Couverture de l’analyse statique versus l’analyse l’analyse dynamique
+- Oui, il a des différences entre l'analyse statique et dynamique. D'abord, l'analyse statique se base sur l'analyse du code source d'un projet et prend en compte toutes les exécutions possibles. Par contre l'analyse dynamique(instrumentation) se base sur l'analyse d'une ou plusieurs exécutions du code et consedère que certaines exécutions concrètes.
+
+- Les différences viennent du fait que l'analyse statique balaye tout le projet pour construire le graphe d’appel. Et avec l'analyse dynamique, le graphe d'appel change en fontion de chaque exécution et des actions d'utilisateur.
+
+-On peut améliorer l'analyse dynamique en analysant le plus grand nombre possible un projet, ça va permettre de couvrir plusieurs de scénarios d'exécution. Du coup, on augmente la couverture du graphe de dépendances.
+
+
+
